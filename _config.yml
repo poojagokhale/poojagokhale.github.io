@@ -26,12 +26,12 @@ author:
   pronouns         : "she/her"  
   bio              : 
   location         : "Athens, Georgia, USA"
-  employer         : "University of Georgia College of Pharmacy"
+  employer         : "University of Georgia"
   URI              : 
   email            : "poojaGokhale@uga.edu" 
 
   # Academic websites
-  bio            : "https://rx.uga.edu/student_directory/pooja-gokhale/"
+  arxiv           : "https://rx.uga.edu/student_directory/pooja-gokhale/"
   googlescholar    : "https://scholar.google.com/citations?user=ZBJCsz8AAAAJ&hl=en&inst=2365059173406736517"
   impactstory      : 
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-7505-7007"
