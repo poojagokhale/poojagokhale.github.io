@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Pooja Gokhale Passport Professional Photo.png"
+  avatar           : "images/Pooja Gokhale Passport Professional Photo.png"
   name             : "Pooja Gokhale"
   pronouns         : "she/her"  
   bio              : 
@@ -31,7 +31,7 @@ author:
   email            : "poojaGokhale@uga.edu" 
 
   # Academic websites
-  arxiv            : "https://rx.uga.edu/student_directory/pooja-gokhale/"
+  bio            : "https://rx.uga.edu/student_directory/pooja-gokhale/"
   googlescholar    : "https://scholar.google.com/citations?user=ZBJCsz8AAAAJ&hl=en&inst=2365059173406736517"
   impactstory      : 
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-7505-7007"
