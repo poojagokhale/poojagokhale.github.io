@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Pooja Gokhale Passport Professional Photo.png"
+  avatar           : "Pooja Gokhale Passport Professional Photo.png"
   name             : "Pooja Gokhale"
   pronouns         : "she/her"  
   bio              : 
@@ -57,7 +57,7 @@ author:
   keybase          : 
   instagram        : 
   lastfm           : # Username
-  linkedin         : www.linkedin.com/in/pooja-gokhale-
+  linkedin         : "www.linkedin.com/in/pooja-gokhale-"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
