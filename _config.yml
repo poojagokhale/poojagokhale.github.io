@@ -34,10 +34,10 @@ author:
   arxiv           : "https://rx.uga.edu/student_directory/pooja-gokhale/"
   googlescholar    : "https://scholar.google.com/citations?user=ZBJCsz8AAAAJ&hl=en&inst=2365059173406736517"
   impactstory      : 
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-7505-7007"
+  orcid            : 
   semantic         : 
   PubMed           : 
-  researchgate     : "https://www.researchgate.net/profile/Pooja-Gokhale-2"
+  researchgate     : 
 
   # Repositories and software development
   bitbucket        : 
@@ -57,7 +57,7 @@ author:
   keybase          : 
   instagram        : 
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/pooja-gokhale-/"
+  linkedin         : "pooja-gokhale"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
