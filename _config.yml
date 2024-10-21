@@ -12,7 +12,7 @@ title                    : "Pooja Gokhale"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://poojagokhale.github.io/
+URL                      : "https://poojagokhale.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "poojagokhale/poojagokhale.github.io"
 
