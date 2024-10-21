@@ -6,7 +6,7 @@
 
 main:
   - title: "Resume"
-    url: /resume/
+    url: files/PoojaGokhale_Resume (1).pdf
     
   - title: "Publications"
     url: /publications/
@@ -18,9 +18,9 @@ main:
     url: /teaching/    
     
   - title: "Organizations"
-    url: /organizations/
+    url: /portfolio/
         
   - title: "Certifications"
-    url: /certifications/
+    url: /teaching/
     
  
