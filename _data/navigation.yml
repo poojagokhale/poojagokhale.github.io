@@ -6,7 +6,7 @@
 
 main:
   - title: "Resume"
-    url: files/PoojaGokhale_Resume (1).pdf
+    url: /files/PoojaGokhale_Resume (1).pdf
     
   - title: "Publications"
     url: /publications/
