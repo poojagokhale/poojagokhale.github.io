@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Essentials of Pharmacy Practice III"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "PharmD course"
+permalink: 
+venue: "University of Georgia College of Pharmacy"
+date: 2024-08-01
+location: "Athens, GA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Conducted therapeutic case recitation sessions for a class of 30 P2 students every week.
 
 Heading 1
 ======
