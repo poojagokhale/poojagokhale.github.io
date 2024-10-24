@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "The Professional Society of Health Economics and Outcomes Research (ISPOR) University of Georgia Chapter"
+excerpt: "Secretary: Jan 2024 - Present"
 
 ---
 
