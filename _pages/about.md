@@ -17,6 +17,7 @@ I hope to work in the HEOR and RWE domains in the future. I am currently searchi
 
 Previous projects
 ======
+
 Pregnancy and Perinatal Outcomes Following Exposure to Medications for Opioid Use Disorder: An Analysis of FAERS (FDA Adverse Event Reporting System)
 ======
 
