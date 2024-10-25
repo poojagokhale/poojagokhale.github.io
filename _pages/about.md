@@ -24,11 +24,16 @@ We are currently working on expanding this project by adding real-world usage pa
 Software: MS Excel, SAS 9.4
 
 
+
+
 Opioid Use and its Association with Clostridium difficile Infection: A Systematic Review and Meta-Analysis of Observational Studies
 
 This systematic review and meta-analysis found that hospitalized patients who are prescribed opioids are at a greater risk of developing Clostridium difficile infection compared to those who are not prescribed opioids.
 This finding is particularly important for immunocompromised patients, who are at a greater risk of developing Clostridium difficile infection.
 Clinicians should consider this association while prescribing opioids, especially considering the higher opioid prescription rates in the US compared to other countries.
+Software: MS Excel, EndNote, R 4.3.3
+
+
 
 
 Cost-effectiveness Analysis of Ubrogepant, Rimegepant, and Zavegepant Compared to Usual Care for the Acute Treatment of Migraine
@@ -37,3 +42,4 @@ Cost-effectiveness Analysis of Ubrogepant, Rimegepant, and Zavegepant Compared t
 A Markov model was constructed to assess the cost-effectiveness of the three CGRP antagonist approved for acute treatment of migraine (ubrogepant, rimegepant, and zavegepant) against each other and usual care.
 All three gepants were cost-effective compared to usual care under a willingness-to-pay threshold of $100,000.
 Rimegepant was cost-effective compared to ubrogepant and dominated zavegepant, being both more effective and less costly.
+Software: R 4.3.3
