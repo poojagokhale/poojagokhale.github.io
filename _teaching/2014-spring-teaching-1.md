@@ -4,7 +4,8 @@ collection: teaching
 type: "PharmD course"
 permalink: 
 venue: "University of Georgia College of Pharmacy"
-date: 2024 and 2025
+date: 2024-08-15
+date: 2025-08-15
 location: "Athens, GA"
 ---
 
