@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year PhD student in the Pharmaceutical Health Services, Outcomes and Policy program at the University of Georgia College of Pharmacy. Before pursuing my PhD, I completed a Doctor of Pharmacy (PharmD) degree from India. 
+I'm a third-year PhD student in the Pharmaceutical Health Services, Outcomes and Policy program at the University of Georgia College of Pharmacy. 
 
 My previous research has focused on pharmacoepidemiology, cost-effectiveness analyses, systematic reviews, meta-analyses, and observational studies.
+
+My dissertation focuses on Non-small cell lung cancer with EGFR mutations.
 
 I am passionate about conducting research that affects patient outcomes and policy. 
 
