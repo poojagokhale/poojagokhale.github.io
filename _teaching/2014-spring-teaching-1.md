@@ -1,5 +1,5 @@
 ---
-title: "Essentials of Pharmacy Practice III"
+title: "Essentials of Pharmacy Practice III and IV"
 collection: teaching
 type: "PharmD course"
 permalink: 
@@ -10,11 +10,4 @@ location: "Athens, GA"
 
 Conducted therapeutic case recitation sessions for a class of 30 P2 students every week.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
