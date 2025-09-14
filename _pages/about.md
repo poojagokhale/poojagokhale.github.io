@@ -13,5 +13,5 @@ My previous research has focused on pharmacoepidemiology, cost-effectiveness ana
 
 I am passionate about conducting research that affects patient outcomes and policy. 
 
-I want to work in the HEOR and RWE domains in the future. I am currently searching for internship opportunities for Summer 2025.
+I want to work in the HEOR and RWE domains in the future. I am currently searching for internship opportunities for Summer 2026.
 
