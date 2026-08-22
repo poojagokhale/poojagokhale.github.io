@@ -5,7 +5,7 @@ type: "PharmD course"
 permalink: 
 venue: "University of Georgia College of Pharmacy"
 date: 2024-08-15
-date: Present
+date: 2026-12-31
 location: "Athens, GA"
 ---
 
